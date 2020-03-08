@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
 @EnableBatchProcessing // 스프링 배치 활성화
-@EnableScheduling
+@EnableScheduling // 스프링 스케줄 활성화
 @SpringBootApplication
 public class DemoApplication {
 

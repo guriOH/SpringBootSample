@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/SpringBootAopDemo" />
             <option value="$PROJECT_DIR$/SpringBootBatchDemo" />
+            <option value="$PROJECT_DIR$/SpringBootSecurityDemo" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />
