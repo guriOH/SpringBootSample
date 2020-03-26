@@ -11,7 +11,6 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/SpringBootAopDemo" />
             <option value="$PROJECT_DIR$/SpringBootBatchDemo" />
-            <option value="$PROJECT_DIR$/SpringBootSecurityDemo" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />
@@ -32,6 +31,37 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/SpringBootBatchDemo" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBootSecurityFormDemo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringBootSecurityFormDemo" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="disableWrapperSourceDistributionNotification" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBootSecurityHttpBasicDemo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringBootSecurityHttpBasicDemo" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBootSecurityJwtDemo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringBootSecurityJwtDemo" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />

@@ -1,5 +1,5 @@
 rootProject.name = 'SpringBootSample'
 include 'SpringBootAopDemo'
 include 'SpringBootBatchDemo'
-include 'SpringBootSecurityDemo'
+include 'SpringBootSecurityHttpBasicDemo'
 
